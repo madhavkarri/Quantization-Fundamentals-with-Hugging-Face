@@ -1,4 +1,4 @@
-# Quantization-Fundamentals-with-Hugging-Face
+# Quantization Fundamentals with Hugging Face
 
 - Generative AI models, like large language models, often exceed the capabilities of consumer-grade hardware and are expensive to run.
 - Compressing models through methods such as quantization makes them more efficient, faster, and accessible. 
